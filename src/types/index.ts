@@ -1,5 +1,5 @@
 
-export type Mood = 'happy' | 'sad' | 'angry' | 'tired' | 'neutral' | 'hopeful';
+export type Mood = 'happy' | 'sad' | 'angry' | 'tired' | 'neutral' | 'hopeful' | 'anxious' | 'stressed' | 'overwhelmed' | 'frustrated' | 'restless';
 export type MoodColor = 'stress' | 'calm' | 'energy' | 'balance' | 'drain';
 
 export interface MoodSelection {
